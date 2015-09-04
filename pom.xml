@@ -16,10 +16,10 @@
 	<name>Black Pepper Support Spring Web MVC</name>
 
 	<scm>
-		<connection>scm:git:git@codebasehq.com:blackpepper/black-pepper-support/bp-support-spring-webmvc.git</connection>
-		<developerConnection>scm:git:git@codebasehq.com:blackpepper/black-pepper-support/bp-support-spring-webmvc.git</developerConnection>
+		<connection>scm:git:git@github.com:BlackPepperSoftware/bp-support-spring-webmvc.git</connection>
+		<developerConnection>scm:git:git@github.com:BlackPepperSoftware/bp-support-spring-webmvc.git</developerConnection>
 		<tag>HEAD</tag>
-		<url>https://blackpepper.codebasehq.com/projects/black-pepper-support/repositories/bp-support-spring-webmvc</url>
+		<url>https://github.com/BlackPepperSoftware/bp-support-spring-webmvc</url>
 	</scm>
 	
 	<dependencies>
